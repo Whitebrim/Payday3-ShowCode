@@ -1,4 +1,4 @@
-# PayDay3-ShowCode
+# Payday3 ShowCode
 A Payday 3 mod that shows/reveals the vault/door/keypad code/password at the beginning of the heist.
 
 # Installation
